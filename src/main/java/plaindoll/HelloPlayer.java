@@ -5,6 +5,7 @@ public class HelloPlayer{
 		Welcomer welcomer = new Welcomer();
 		System.out.println(welcomer.sayWelcome());
 		System.out.println(welcomer.sayFarewell());
+		System.out.println(welcomer.sayAnother());
 
 	}
 
